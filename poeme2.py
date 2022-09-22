@@ -1,0 +1,3 @@
+# deuxieme poeme
+# jaime programmer avec python ...
+#jaime python
